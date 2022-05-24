@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = ReadtheDocsSphinxTheme
 SOURCEDIR     = .
-BUILDDIR      = ../docs
+BUILDDIR      = build
 
 github:
 	@make html
